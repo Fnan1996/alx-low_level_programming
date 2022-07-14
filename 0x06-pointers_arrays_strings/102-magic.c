@@ -1,7 +1,5 @@
-#include <main.h>
 #include <stdio.h>
 
-int (void)
 {
 	int n;
 	int a[5];
