@@ -1,5 +1,5 @@
-#ifndef HOLBERTON
-#define HOLBERTON
+#ifndef _MAIN_H_
+#define _MAIN_H_
 int add(int a,int b);
 int sum(int a,int b);
 int mul(int a,int b);
